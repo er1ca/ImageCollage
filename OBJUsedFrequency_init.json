@@ -1,0 +1,326 @@
+{
+	"bg": [
+		{
+			"freq": 0,
+			"bgName": "airport"
+		},
+		{
+			"freq": 0,
+			"bgName": "amusementpark"
+		},
+		{
+			"freq": 0,
+			"bgName": "cave"
+		},
+		{
+			"freq": 0,
+			"bgName": "city"
+		},
+		{
+			"freq": 0,
+			"bgName": "cliff"
+		},
+		{
+			"freq": 0,
+			"bgName": "desert"
+		},
+		{
+			"freq": 0,
+			"bgName": "festival"
+		},
+		{
+			"freq": 0,
+			"bgName": "forest"
+		},
+		{
+			"freq": 0,
+			"bgName": "glacier"
+		},
+		{
+			"freq": 0,
+			"bgName": "home"
+		},
+		{
+			"freq": 0,
+			"bgName": "lakeside"
+		},
+		{
+			"freq": 0,
+			"bgName": "museum"
+		},
+		{
+			"freq": 0,
+			"bgName": "roof"
+		},
+		{
+			"freq": 0,
+			"bgName": "sky"
+		},
+		{
+			"freq": 0,
+			"bgName": "steps"
+		},
+		{
+			"freq": 0,
+			"bgName": "streets"
+		},
+		{
+			"freq": 0,
+			"bgName": "subway"
+		},
+		{
+			"freq": 0,
+			"bgName": "tunnel"
+		},
+		{
+			"freq": 0,
+			"bgName": "universe"
+		},
+		{
+			"freq": 0,
+			"bgName": "vacation"
+		}
+	],
+	"object": [
+		{
+			"freq": 0,
+			"objName": "boat"
+		},
+		{
+			"freq": 0,
+			"objName": "butterfly"
+		},
+		{
+			"freq": 0,
+			"objName": "frame"
+		},
+		{
+			"freq": 0,
+			"objName": "giraffe"
+		},
+		{
+			"freq": 0,
+			"objName": "curtain"
+		},
+		{
+			"freq": 0,
+			"objName": "ribbon"
+		},
+		{
+			"freq": 0,
+			"objName": "tree"
+		},
+		{
+			"freq": 0,
+			"objName": "deer"
+		},
+		{
+			"freq": 0,
+			"objName": "pen"
+		},
+		{
+			"freq": 0,
+			"objName": "cat"
+		},
+		{
+			"freq": 0,
+			"objName": "clock"
+		},
+		{
+			"freq": 0,
+			"objName": "smartphone"
+		},
+		{
+			"freq": 0,
+			"objName": "drone"
+		},
+		{
+			"freq": 0,
+			"objName": "apple"
+		},
+		{
+			"freq": 0,
+			"objName": "seagull"
+		},
+		{
+			"freq": 0,
+			"objName": "doll"
+		},
+		{
+			"freq": 0,
+			"objName": "ring"
+		},
+		{
+			"freq": 0,
+			"objName": "car"
+		},
+		{
+			"freq": 0,
+			"objName": "flower"
+		},
+		{
+			"freq": 0,
+			"objName": "clock"
+		},
+		{
+			"freq": 0,
+			"objName": "angel"
+		},
+		{
+			"freq": 0,
+			"objName": "ring"
+		},
+		{
+			"freq": 0,
+			"objName": "flower"
+		},
+		{
+			"freq": 0,
+			"objName": "owl"
+		},
+		{
+			"freq": 0,
+			"objName": "wine"
+		},
+		{
+			"freq": 0,
+			"objName": "friend"
+		},
+		{
+			"freq": 0,
+			"objName": "angel"
+		},
+		{
+			"freq": 0,
+			"objName": "bus"
+		},
+		{
+			"freq": 0,
+			"objName": "deer"
+		},
+		{
+			"freq": 0,
+			"objName": "owl"
+		},
+		{
+			"freq": 0,
+			"objName": "smartphone"
+		},
+		{
+			"freq": 0,
+			"objName": "beer"
+		},
+		{
+			"freq": 0,
+			"objName": "family"
+		},
+		{
+			"freq": 0,
+			"objName": "wine"
+		},
+		{
+			"freq": 0,
+			"objName": "friend"
+		},
+		{
+			"freq": 0,
+			"objName": "drone"
+		},
+		{
+			"freq": 0,
+			"objName": "seagull"
+		},
+		{
+			"freq": 0,
+			"objName": "bus"
+		},
+		{
+			"freq": 0,
+			"objName": "butterfly"
+		},
+		{
+			"freq": 0,
+			"objName": "car"
+		},
+		{
+			"freq": 0,
+			"objName": "ribbon"
+		},
+		{
+			"freq": 0,
+			"objName": "giraffe"
+		},
+		{
+			"freq": 0,
+			"objName": "alone"
+		},
+		{
+			"freq": 0,
+			"objName": "cat"
+		},
+		{
+			"freq": 0,
+			"objName": "moon"
+		},
+		{
+			"freq": 0,
+			"objName": "beer"
+		},
+		{
+			"freq": 0,
+			"objName": "dog"
+		},
+		{
+			"freq": 0,
+			"objName": "tree"
+		},
+		{
+			"freq": 0,
+			"objName": "apple"
+		},
+		{
+			"freq": 0,
+			"objName": "family"
+		},
+		{
+			"freq": 0,
+			"objName": "moon"
+		},
+		{
+			"freq": 0,
+			"objName": "pen"
+		},
+		{
+			"freq": 0,
+			"objName": "boat"
+		},
+		{
+			"freq": 0,
+			"objName": "doll"
+		},
+		{
+			"freq": 0,
+			"objName": "horse"
+		},
+		{
+			"freq": 0,
+			"objName": "horse"
+		},
+		{
+			"freq": 0,
+			"objName": "dog"
+		},
+		{
+			"freq": 0,
+			"objName": "frame"
+		},
+		{
+			"freq": 0,
+			"objName": "curtain"
+		},
+		{
+			"freq": 0,
+			"objName": "alone"
+		}
+	]
+}
