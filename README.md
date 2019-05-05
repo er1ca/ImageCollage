@@ -10,3 +10,9 @@ First some sentances are gathered to demonstrate at exhibition. then, We collect
 
 ## Projection
 Projection part is only prepared for the exhibition starting 5.29. 
+
+
+## install packages
+* opencv : pip install opencv-python
+* Image : pip install Image
+* numpy : pip install numpy
