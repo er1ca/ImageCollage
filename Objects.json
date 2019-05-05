@@ -1,0 +1,338 @@
+[
+  {
+    "name" : "alone_1",
+    "layer" : 5,
+    "ratio": 0.8,
+    "location" : [-300,0]
+  },
+  {
+    "name" : "alone_2",
+    "layer" : 5,
+    "ratio": 0.5,
+    "location" : [-600,120]
+  },
+  {
+    "name" : "angel_1",
+    "layer" : 12,
+    "ratio": 0.8,
+    "location" : [-300,0]
+  },
+  {
+    "name" : "angel_2",
+    "layer" : 20,
+    "ratio": 0.5,
+    "location" : [-600,120]
+  },
+  {
+    "name" : "apple_1",
+    "layer" : 18,
+    "ratio": 0.7,
+    "location" : [900,500]
+  },
+  {
+    "name" : "apple_2",
+    "layer" : 18,
+    "ratio": 0.7,
+    "location" : [900,500]
+  },
+    {
+    "name" : "beer_1",
+    "layer" : 17,
+    "ratio": 0.5,
+    "location" : [700,500]
+  },
+  {
+    "name" : "beer_2",
+    "layer" : 23,
+    "ratio": 0.2,
+    "location" : [700,500]
+  },
+  {
+    "name" : "boat_1",
+    "layer" : 11,
+    "ratio": 0.27,
+    "location" : [1000,300]
+  },
+  {
+    "name" : "boat_2",
+    "layer" : 7,
+    "ratio": 1,
+    "location" : [0,0]
+  },
+  {
+    "name" : "bus_1",
+    "layer" : 1,
+    "ratio": 0.4,
+    "location" : [10,300]
+  },
+  {
+    "name" : "bus_2",
+    "layer" : 1,
+    "ratio": 0.5,
+    "location" : [0,300]
+  },
+  {
+    "name" : "butterfly_1",
+    "layer" : 1,
+    "ratio": 0.3,
+    "location" : [50,400]
+  },
+  {
+    "name" : "butterfly_2",
+    "layer" : 1,
+    "ratio": 0.5,
+    "location" : [200,200]
+  },
+  {
+    "name" : "car_1",
+    "layer" : 1,
+    "ratio": 0.4,
+    "location" : [850,100]
+  },
+  {
+    "name" : "car_2",
+    "layer" : 1,
+    "ratio": 0.5,
+    "location" : [50,400]
+  },
+  {
+    "name" : "cat_1",
+    "layer" : 1,
+    "ratio": 0.4,
+    "location" : [850,100]
+  },
+  {
+    "name" : "cat_2",
+    "layer" : 1,
+    "ratio": 0.5,
+    "location" : [50,400]
+  },
+  {
+    "name" : "clock_1",
+    "layer" : 1,
+    "ratio": 0.4,
+    "location" : [850,100]
+  },
+  {
+    "name" : "clock_2",
+    "layer" : 1,
+    "ratio": 0.5,
+    "location" : [50,400]
+  },
+  {
+    "name" : "curtain_1",
+    "layer" : 2,
+    "ratio": 1.5,
+    "location" : [50,400]
+  },
+  {
+    "name" : "curtain_2",
+    "layer" : 2,
+    "ratio": 1.5,
+    "location" : [50,400]
+  },
+  {
+    "name" : "deer_1",
+    "layer" : 1,
+    "ratio": 0.6,
+    "location" : [500,300]
+  },
+  {
+    "name" : "deer_2",
+    "layer" : 1,
+    "ratio": 0.4,
+    "location" : [550,400]
+  },
+  {
+    "name" : "dog_1",
+    "layer" : 1,
+    "ratio": 0.6,
+    "location" : [500,300]
+  },
+  {
+    "name" : "dog_2",
+    "layer" : 1,
+    "ratio": 0.4,
+    "location" : [550,400]
+  },
+  {
+    "name" : "doll_1",
+    "layer" : 1,
+    "ratio": 0.6,
+    "location" : [500,300]
+  },
+  {
+    "name" : "doll_2",
+    "layer" : 1,
+    "ratio": 0.4,
+    "location" : [550,400]
+  },
+  {
+    "name" : "drone_1",
+    "layer" : 1,
+    "ratio": 0.6,
+    "location" : [500,300]
+  },
+  {
+    "name" : "drone_2",
+    "layer" : 1,
+    "ratio": 0.4,
+    "location" : [550,400]
+  },
+  {
+    "name" : "flower_1",
+    "layer" : 1,
+    "ratio": 0.6,
+    "location" : [500,300]
+  },
+  {
+    "name" : "flower_2",
+    "layer" : 1,
+    "ratio": 0.4,
+    "location" : [550,400]
+  },
+  {
+    "name" : "frame_1",
+    "layer" : 1,
+    "ratio": 0.6,
+    "location" : [500,300]
+  },
+  {
+    "name" : "frame_2",
+    "layer" : 1,
+    "ratio": 0.4,
+    "location" : [550,400]
+  },
+  {
+    "name" : "giraffe_1",
+    "layer" : 1,
+    "ratio": 0.6,
+    "location" : [500,300]
+  },
+  {
+    "name" : "giraffe_2",
+    "layer" : 1,
+    "ratio": 0.4,
+    "location" : [550,400]
+  },
+  {
+    "name" : "horse_1",
+    "layer" : 1,
+    "ratio": 0.6,
+    "location" : [500,300]
+  },
+  {
+    "name" : "horse_2",
+    "layer" : 1,
+    "ratio": 0.4,
+    "location" : [550,400]
+  },
+  {
+    "name" : "moon_1",
+    "layer" : 1,
+    "ratio": 0.3,
+    "location" : [50,40]
+  },
+  {
+    "name" : "moon_2",
+    "layer" : 1,
+    "ratio": 0.2,
+    "location" : [50,40]
+  },
+  {
+    "name" : "owl_1",
+    "layer" : 1,
+    "ratio": 0.3,
+    "location" : [900,600]
+  },
+  {
+    "name" : "owl_2",
+    "layer" : 1,
+    "ratio": 0.35,
+    "location" : [1200,500]
+  },
+  {
+    "name" : "pen_1",
+    "layer" : 1,
+    "ratio": 0.3,
+    "location" : [900,600]
+  },
+  {
+    "name" : "pen_2",
+    "layer" : 1,
+    "ratio": 0.35,
+    "location" : [1200,500]
+  },
+  {
+    "name" : "ribbon_1",
+    "layer" : 1,
+    "ratio": 0.3,
+    "location" : [900,600]
+  },
+  {
+    "name" : "ribbon_2",
+    "layer" : 1,
+    "ratio": 0.35,
+    "location" : [1200,500]
+  },
+  {
+    "name" : "ring_1",
+    "layer" : 1,
+    "ratio": 0.3,
+    "location" : [900,600]
+  },
+  {
+    "name" : "ring_2",
+    "layer" : 1,
+    "ratio": 0.35,
+    "location" : [1200,500]
+  },
+  {
+    "name" : "seagull_1",
+    "layer" : 1,
+    "ratio": 0.3,
+    "location" : [900,600]
+  },
+  {
+    "name" : "seagull_2",
+    "layer" : 1,
+    "ratio": 0.35,
+    "location" : [1200,500]
+  },
+  {
+    "name" : "smartphone_1",
+    "layer" : 1,
+    "ratio": 0.3,
+    "location" : [900,600]
+  },
+  {
+    "name" : "smartphone_2",
+    "layer" : 1,
+    "ratio": 0.35,
+    "location" : [1200,500]
+  },
+  {
+    "name" : "tree_1",
+    "layer" : 1,
+    "ratio": 0.3,
+    "location" : [900,600]
+  },
+  {
+    "name" : "tree_2",
+    "layer" : 1,
+    "ratio": 0.35,
+    "location" : [1200,500]
+  },
+  {
+    "name" : "wine_1",
+    "layer" : 1,
+    "ratio": 0.3,
+    "location" : [900,600]
+  },
+  {
+    "name" : "wine_2",
+    "layer" : 1,
+    "ratio": 0.35,
+    "location" : [1200,500]
+  }
+]
