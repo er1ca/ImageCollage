@@ -13,6 +13,6 @@ Projection part is only prepared for the exhibition starting 5.29.
 
 
 ## install packages
-* opencv : pip install opencv-python
-* Image : pip install Image
-* numpy : pip install numpy
+```buildoutcfg
+pip install -r requirements.txt
+```
